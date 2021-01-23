@@ -1,2 +1,2 @@
 [Webservers]
-54.174.29.148
+54.174.29.148 ansible_user@ec2-user
